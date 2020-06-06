@@ -83,7 +83,13 @@ const TaskManager = () => {
     <div className='TaskManager'>
       <div className='TaskManager-wrapper'>
         <div className='TaskManager-button'>
-          <Button appearance='primary' onClick={onAddServer}>Add Server</Button>
+          <Button
+            appearance='primary'
+            onClick={onAddServer}
+            disabled={servers.length >= 10}
+          >
+            Add Server
+          </Button>
           <Button
             appearance='primary'
             onClick={onRemoveServer}
