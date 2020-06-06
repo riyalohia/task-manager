@@ -1,0 +1,41 @@
+.TaskManager {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-right: 100px;
+    justify-items: center;
+    justify-content: center;
+}
+
+.TaskManager-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.TaskManager-button,
+.TaskManager-input {
+    display: flex;
+    margin-right: 50px;
+}
+
+.TaskManager-button .Button,
+.TaskManager-input .Input {
+   margin-right: 8px;
+}
+
+.TaskManager-input .Input {
+   width:100px;
+   min-width: unset;
+}
+
+.TaskManager-info {
+    margin-top: 60px;
+    margin-left: 2px;
+    display: flex;
+}
+
+.TaskManager-info .Text{
+    margin-right: 8px;
+}
