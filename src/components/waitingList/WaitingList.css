@@ -1,0 +1,17 @@
+.WaitingList-heading {
+    margin-bottom: 6px;
+    margin-top: 10px;
+}
+
+.WaitingList-progress {
+    display: flex;
+}
+
+.WaitingList-progress .progress {
+    width: 1000px;
+    height: 30px;
+}
+
+.WaitingList-progress .Button {
+    margin-left: 8px;
+}
