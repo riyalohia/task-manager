@@ -5,7 +5,7 @@ const style = {
   alignItems: 'center',
   margin: '10px 0',
   width: 'fit-content',
-  marginLeft: '40px'
+  marginLeft: '45px'
 };
 
 const Header = () => (
