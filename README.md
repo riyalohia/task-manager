@@ -2,7 +2,7 @@
   Task
 </h1>
 
-## 🚀 Installation
+## 🚀 Install
 
 **Clone the repository**
 
