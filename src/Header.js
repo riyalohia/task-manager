@@ -3,7 +3,7 @@ import React from 'react';
 const style = {
   display: 'flex',
   alignItems: 'center',
-  margin: '10px 0',
+  margin: '10px 1px',
   width: 'fit-content',
   marginLeft: '45px'
 };
