@@ -1,5 +1,5 @@
 <h1 align="center">
-  Task Manager
+  Task
 </h1>
 
 ## 🚀 Installation
